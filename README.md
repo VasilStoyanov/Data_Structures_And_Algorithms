@@ -84,3 +84,4 @@ m1 k2 k1 p4 p2 p3 p1
 *  **k2** meditates before all padawans and after **m1**
 *  **k1** meditates before all padawans and after **k2**
 *  The **padawans** mediate in the order they appear
+s
